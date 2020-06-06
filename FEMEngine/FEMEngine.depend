@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1590279364 source:d:\belénsoledadcevey\trabajo\utn\femengine\aux_lfe.c
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+
+1590688618 source:d:\belénsoledadcevey\trabajo\utn\femengine\aux_lfe.cpp
+	"AUX_LFE.h"
+
+1590688618 d:\belénsoledadcevey\trabajo\utn\femengine\aux_lfe.h
+	<malloc.h>
+	<cstdio>
+	<stdlib.h>
+
+1590251226 source:d:\belénsoledadcevey\trabajo\utn\femengine\file_lfe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590688618 source:d:\belénsoledadcevey\trabajo\utn\femengine\file_lfe.cpp
+	"FILE_LFE.h"
+
+1590688618 d:\belénsoledadcevey\trabajo\utn\femengine\file_lfe.h
+	<cstdio>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<iostream>
+
+1590251280 source:d:\belénsoledadcevey\trabajo\utn\femengine\gauss.c
+
+1590688618 source:d:\belénsoledadcevey\trabajo\utn\femengine\gauss.cpp
+	"GAUSS.h"
+
+1590688618 d:\belénsoledadcevey\trabajo\utn\femengine\gauss.h
+
+1590251764 source:d:\belénsoledadcevey\trabajo\utn\femengine\genvec.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<memory.h>
+
+1590688618 source:d:\belénsoledadcevey\trabajo\utn\femengine\genvec.cpp
+	"Genvec.h"
+
+1590688618 d:\belénsoledadcevey\trabajo\utn\femengine\genvec.h
+	<cstdio>
+	<stdlib.h>
+	<cmath>
+	<string.h>
+	<fstream>
+	<iostream>
+
+1028034612 source:d:\belénsoledadcevey\trabajo\utn\femengine\init_lfe.c
+	<stdio.h>
+
+1590688618 source:d:\belénsoledadcevey\trabajo\utn\femengine\init_lfe.cpp
+	"Init_lfe.h"
+
+1590688618 d:\belénsoledadcevey\trabajo\utn\femengine\init_lfe.h
+	<cstdio>
+
+1590688622 source:d:\belénsoledadcevey\trabajo\utn\femengine\inputest .cpp
+	"Inputest.h"
+
+1590688622 d:\belénsoledadcevey\trabajo\utn\femengine\inputest.h
+	<cstdio>
+	<stdlib.h>
+	<string.h>
+
+1537151068 source:d:\belénsoledadcevey\trabajo\utn\femengine\inputest.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537151070 source:d:\belénsoledadcevey\trabajo\utn\femengine\inputpar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590688622 source:d:\belénsoledadcevey\trabajo\utn\femengine\inputpar.cpp
+	"Inputpar.h"
+
+1590688622 d:\belénsoledadcevey\trabajo\utn\femengine\inputpar.h
+	<cstdio>
+	<stdlib.h>
+	<string.h>
+
+1590688622 source:d:\belénsoledadcevey\trabajo\utn\femengine\lsafe.cpp
+	<new>
+	<cstdlib>
+	<cmath>
+	<string>
+	<fstream>
+	<iostream>
+	"FILE_LFE.h"
+	"MESHDAT.h"
+	"GENVEC.h"
+	"SKYLINE.h"
+	"GAUSS.h"
+	"STIFFBLK.h"
+	"AUX_LFE.h"
+	"PRTPLT.h"
+	"Inputest.h"
+	"Inputpar.h"
+	"REFIDFR.h"
+	"TR2DMLMF.h"
+	"TRI3_K_SBS.h"
+	"TRIM2DK.h"
+	"TRIM2DS.h"
+	"TRIMBC2DK.h"
+	"Trimempk.h"
+	"Trimm2dav.h"
+	"Trimm2dk.h"
+	"Trimm2dmf.h"
+	"Trimm2ds.h"
+	"Trimmpk.h"
+
+1590688622 d:\belénsoledadcevey\trabajo\utn\femengine\meshdat.h
+	<cstdio>
+	<stdlib.h>
+	<cmath>
+	<fstream>
+	<iostream>
+
+1590688624 d:\belénsoledadcevey\trabajo\utn\femengine\skyline.h
+	<stdlib.h>
+	<cmath>
+
+1590688624 d:\belénsoledadcevey\trabajo\utn\femengine\stiffblk.h
+	<cstdio>
+	<stdlib.h>
+	"TRIM2DK.h"
+
+1590688626 d:\belénsoledadcevey\trabajo\utn\femengine\trim2dk.h
+	<cmath>
+	"SKYLINE.h"
+
+1590688624 d:\belénsoledadcevey\trabajo\utn\femengine\prtplt.h
+	<cstdio>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<iostream>
+	<iomanip>
+	"TRIM2DS.h"
+	"Trimm2ds.h"
+
+1590688628 d:\belénsoledadcevey\trabajo\utn\femengine\trim2ds.h
+	<cstdio>
+	<stdlib.h>
+	<cmath>
+	<fstream>
+	"Trimm2dmf.h"
+
+1590688630 d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dmf.h
+	<cstdio>
+	<cmath>
+	<stdlib.h>
+	<memory.h>
+
+1590688630 d:\belénsoledadcevey\trabajo\utn\femengine\trimm2ds.h
+	<cstdio>
+	<stdlib.h>
+	<cmath>
+	<fstream>
+	"SKYLINE.h"
+
+1590688624 d:\belénsoledadcevey\trabajo\utn\femengine\refidfr.h
+	<cstdio>
+	<stdlib.h>
+	<cmath>
+	"Trimm2dmf.h"
+	"TR2DMLMF.h"
+
+1590688626 d:\belénsoledadcevey\trabajo\utn\femengine\tr2dmlmf.h
+	<cstdio>
+	<cmath>
+	<stdlib.h>
+	<memory>
+
+1590688626 d:\belénsoledadcevey\trabajo\utn\femengine\tri3_k_sbs.h
+	<cmath>
+	"SKYLINE.h"
+
+1590688628 d:\belénsoledadcevey\trabajo\utn\femengine\trimbc2dk.h
+	<cmath>
+	"SKYLINE.h"
+
+1590688628 d:\belénsoledadcevey\trabajo\utn\femengine\trimempk.h
+	<cmath>
+	"SKYLINE.h"
+
+1590688626 d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dav.h
+	<cstdio>
+	<cmath>
+	<stdlib.h>
+
+1590688628 d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dk.h
+	<cmath>
+	"SKYLINE.h"
+
+1590688632 d:\belénsoledadcevey\trabajo\utn\femengine\trimmpk.h
+	<cmath>
+	"SKYLINE.h"
+
+1590252374 source:d:\belénsoledadcevey\trabajo\utn\femengine\meshdat.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1590688622 source:d:\belénsoledadcevey\trabajo\utn\femengine\meshdat.cpp
+	"Meshdat.h"
+
+1590257008 source:d:\belénsoledadcevey\trabajo\utn\femengine\prtplt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590688622 source:d:\belénsoledadcevey\trabajo\utn\femengine\prtplt.cpp
+	"Prtplt.h"
+
+1590256544 source:d:\belénsoledadcevey\trabajo\utn\femengine\refidfr.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1590688624 source:d:\belénsoledadcevey\trabajo\utn\femengine\refidfr.cpp
+	"REFIDFR.h"
+
+1590258028 source:d:\belénsoledadcevey\trabajo\utn\femengine\skyline.c
+	<cmath>
+	<stdlib.h>
+
+1590688626 source:d:\belénsoledadcevey\trabajo\utn\femengine\skyline.cpp
+	"SKYLINE.h"
+	<math.h>
+
+1590272128 source:d:\belénsoledadcevey\trabajo\utn\femengine\stiffblk.c
+	<stdio.h>
+	<stdlib.h>
+
+1590688626 source:d:\belénsoledadcevey\trabajo\utn\femengine\stiffblk.cpp
+	"STIFFBLK.h"
+
+1590257452 source:d:\belénsoledadcevey\trabajo\utn\femengine\tr2dmlmf.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<memory.h>
+
+1590688626 source:d:\belénsoledadcevey\trabajo\utn\femengine\tr2dmlmf.cpp
+	"TR2DMLMF.h"
+
+1590256544 source:d:\belénsoledadcevey\trabajo\utn\femengine\tri3_k_sbs.c
+	<math.h>
+
+1590688626 source:d:\belénsoledadcevey\trabajo\utn\femengine\tri3_k_sbs.cpp
+	"TRI3_K_SBS.h"
+
+1590256544 source:d:\belénsoledadcevey\trabajo\utn\femengine\trim2dk.c
+	<math.h>
+
+1590688626 source:d:\belénsoledadcevey\trabajo\utn\femengine\trim2dk.cpp
+	"TRI3_K_SBS.h"
+
+1590256544 source:d:\belénsoledadcevey\trabajo\utn\femengine\trim2ds.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1590688628 source:d:\belénsoledadcevey\trabajo\utn\femengine\trim2ds.cpp
+	"TRIM2DS.h"
+
+1590256544 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimbc2dk.c
+	<math.h>
+
+1590688628 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimbc2dk.cpp
+	"TRIMBC2DK.h"
+
+1590258234 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimempk.c
+	<math.h>
+
+1590688628 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimempk.cpp
+	"Trimempk.h"
+
+1590256544 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dav.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1590688628 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dav.cpp
+	"Trimm2dav.h"
+
+1590258730 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dk.c
+	<math.h>
+
+1590688626 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dk.cpp
+	"Trimm2dk.h"
+
+1590258778 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dmf.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<memory.h>
+
+1590688630 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimm2dmf.cpp
+	"Trimm2dmf.h"
+
+1590256544 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimm2ds.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1590688630 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimm2ds.cpp
+	"Trimm2ds.h"
+
+1590258894 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimmpk.c
+	<math.h>
+
+1590688628 source:d:\belénsoledadcevey\trabajo\utn\femengine\trimmpk.cpp
+	"Trimmpk.h"
+
+1584205420 source:d:\belénsoledadcevey\trabajo\utn\femengine\femengine\main.cpp
+	<iostream>
+

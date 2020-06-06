@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="FEMEngine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/FEMEngine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="D:\BelénSoledadCevey\Trabajo\UTN\FEMEngine\AGUJERO-T1-5.2DA" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/FEMEngine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="D:\BelénSoledadCevey\Trabajo\UTN\FEMEngine\AGUJERO-T1-5.2DA" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../AUX_LFE.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../AUX_LFE.cpp" />
+		<Unit filename="../AUX_LFE.h" />
+		<Unit filename="../AUX_LFE.o" />
+		<Unit filename="../File_lfe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../File_lfe.cpp" />
+		<Unit filename="../File_lfe.h" />
+		<Unit filename="../GAUSS.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../GAUSS.cpp" />
+		<Unit filename="../GAUSS.h" />
+		<Unit filename="../Genvec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Genvec.cpp" />
+		<Unit filename="../Genvec.h" />
+		<Unit filename="../Init_lfe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Init_lfe.cpp" />
+		<Unit filename="../Init_lfe.h" />
+		<Unit filename="../Inputest .cpp" />
+		<Unit filename="../Inputest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Inputest.h" />
+		<Unit filename="../Inputpar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Inputpar.cpp" />
+		<Unit filename="../Inputpar.h" />
+		<Unit filename="../Lsafe.cpp" />
+		<Unit filename="../Lsafe.o" />
+		<Unit filename="../Meshdat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Meshdat.cpp" />
+		<Unit filename="../Meshdat.h" />
+		<Unit filename="../Prtplt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Prtplt.cpp" />
+		<Unit filename="../Prtplt.h" />
+		<Unit filename="../REFIDFR.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../REFIDFR.cpp" />
+		<Unit filename="../REFIDFR.h" />
+		<Unit filename="../SKYLINE.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../SKYLINE.cpp" />
+		<Unit filename="../SKYLINE.h" />
+		<Unit filename="../STIFFBLK.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../STIFFBLK.cpp" />
+		<Unit filename="../STIFFBLK.h" />
+		<Unit filename="../TR2DMLMF.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../TR2DMLMF.cpp" />
+		<Unit filename="../TR2DMLMF.h" />
+		<Unit filename="../TRI3_K_SBS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../TRI3_K_SBS.cpp" />
+		<Unit filename="../TRI3_K_SBS.h" />
+		<Unit filename="../TRIM2DK.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../TRIM2DK.cpp" />
+		<Unit filename="../TRIM2DK.h" />
+		<Unit filename="../TRIM2DS.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../TRIM2DS.cpp" />
+		<Unit filename="../TRIM2DS.h" />
+		<Unit filename="../TRIMBC2DK.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../TRIMBC2DK.cpp" />
+		<Unit filename="../TRIMBC2DK.h" />
+		<Unit filename="../Trimempk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Trimempk.cpp" />
+		<Unit filename="../Trimempk.h" />
+		<Unit filename="../Trimm2dav.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Trimm2dav.cpp" />
+		<Unit filename="../Trimm2dav.h" />
+		<Unit filename="../Trimm2dk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Trimm2dk.cpp" />
+		<Unit filename="../Trimm2dk.h" />
+		<Unit filename="../Trimm2dmf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Trimm2dmf.cpp" />
+		<Unit filename="../Trimm2dmf.h" />
+		<Unit filename="../Trimm2ds.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Trimm2ds.cpp" />
+		<Unit filename="../Trimm2ds.h" />
+		<Unit filename="../Trimmpk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Trimmpk.cpp" />
+		<Unit filename="../Trimmpk.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
